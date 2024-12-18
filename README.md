@@ -1,4 +1,4 @@
-Hi there, I’m Kyle Huynh! 👋✨
+#Hi there, I’m Kyle Huynh! 👋✨
 
 👨‍💻 Computer Science Major & Cybersecurity Minor | 🎓 Toronto Metropolitan University
 🔍 Passionate Problem Solver | 💡 Always curious and eager to learn
