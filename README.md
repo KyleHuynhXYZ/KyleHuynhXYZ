@@ -8,7 +8,7 @@
 
 ## 💼 About Me
 
-   - **🌟 Intern Experience**: Developed Resume Filtering APIs and optimized workflows at AIModels Tech Inc. 🚀
+   - **🌟 Intern Experience**: Developed Websocket Server Agent at Knorket.AI 🚀
    - **🎨 Web Developer**: Improved website performance and user experience at 123 Petits Pas 💻
    - **🌱 Continuous Learner**: Exploring AI/ML, Front-End Development, Cybersecurity, Data Science, Back-End Development, Full-Stack, SWE and everything in between!
 
